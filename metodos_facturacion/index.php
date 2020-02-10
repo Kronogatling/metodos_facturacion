@@ -10,6 +10,8 @@ require_once('cliente_formas_digitales.php');
 
 		/** EL Xd */
 
+		/** EL Saoso only  refresh*/
+
 		/* carga archivo xml */
 		//$xml = simplexml_load_file ("C:\\xmls\\08F72325-37B4-47C1-8B5F-354D04FA7DF5.xml");
 				
