@@ -2,7 +2,8 @@
 	<?php 
     class ClienteFormasDigitales{
 
-    private $xml;
+	private $xml;
+	 private $xml2;
     private $autentica;
 
 	var $cadena_original_xslt;
